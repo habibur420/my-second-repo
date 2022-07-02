@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+
+.blog-name{
+
+    background-color: #9b59b6;
+    
+}
+.title{
+     
+      padding: 15px 0 0 15px;
+      font-size: 30px;
+      color: #ecf0f1;
+}
+
+img{
+
+   width: 420px;
+   height: 256px;
+   margin: 0 9px;
+}
+#fimage{
+
+    margin-left: 15px;
+}
+p{
+   text-align: justify;
+   padding: 0 10px 10px;
+   color: #ecf0f1;
+}
